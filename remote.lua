@@ -119,6 +119,11 @@ actions.arte = function()
 end
 
 --@help Open France O
+actions.netflix = function()
+	openChaine("https://www.netflix.com/browse");
+end
+
+--@help Open France O
 actions.tmc = function()
 	openChaine("https://www.tf1.fr/tmc/direct");
 end

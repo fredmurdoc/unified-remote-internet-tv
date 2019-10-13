@@ -18,6 +18,7 @@
 	  <button text="tmc" onTap="tmc" />
 	</row>
 	<row>
-	   <button text="arte" onTap="previous" />
+	  <button text="arte" onTap="arte" />
+          <button text="netflix" onTap="netflix" />
 	</row>
 </layout>
